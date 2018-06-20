@@ -1,0 +1,15 @@
+/* line 2, ../../compass/style.scss */
+a:hover {
+  text-decoration: none;
+}
+
+/* line 5, ../../compass/style.scss */
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+/* line 10, ../../compass/style.scss */
+a {
+  color: #00B7FF;
+}
